@@ -10,3 +10,14 @@
     margin-right: auto;
     margin-top: 1px;
   }
+.first{
+  color: rgb(15, 67, 179);
+  font-family: cursive;
+
+}
+
+.itachi{
+  width: 400px;
+  height: 400px;
+  border-radius: 50%
+}
